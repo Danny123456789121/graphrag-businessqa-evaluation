@@ -1,2 +1,8 @@
 langchain
-openai
+langchain-openai
+llama-parse
+python-dotenv
+pydantic
+datasets
+ragas
+matplotlib
