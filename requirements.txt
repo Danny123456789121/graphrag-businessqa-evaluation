@@ -9,3 +9,4 @@ matplotlib
 graphrag
 ipykernel
 chromadb
+# ipynb maybe if we want to import things from other jupyter notebooks
