@@ -9,4 +9,5 @@ matplotlib
 graphrag
 ipykernel
 chromadb
+generative-ai-hub-sdk[all]
 # ipynb maybe if we want to import things from other jupyter notebooks
