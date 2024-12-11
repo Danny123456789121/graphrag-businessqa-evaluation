@@ -70,7 +70,7 @@ chunks:
 input:
   type: file # or blob
   file_type: text # or csv
-  base_dir: "../input"
+  base_dir: "../input_references"
   file_encoding: utf-8
   file_pattern: ".*\\.md$"
 
