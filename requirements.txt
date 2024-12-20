@@ -7,7 +7,12 @@ ragas
 matplotlib
 ipykernel
 generative-ai-hub-sdk[all]>=4.0.0
+google-cloud-aiplatform[tokenization]>=1.57.0
 graphrag
 pydantic
 faiss-cpu
+scidownl
+undetected_chromedriver
+pypaperbot
+wrapt>=1.14.0
 # ipynb maybe if we want to import things from other jupyter notebooks
