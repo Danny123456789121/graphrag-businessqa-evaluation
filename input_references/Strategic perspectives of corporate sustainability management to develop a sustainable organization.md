@@ -2,19 +2,17 @@
 
 Rupert J. Baumgartner, Romana Rauter
 
-Industrial Ecology
-
 Pollution Prevention
+
+Life Cycle Assessment
+
+Industrial Ecology
 
 Source Reduction
 
 Waste Minimisation
 
-Life Cycle Assessment
-
 Sustainable Development
-
-ISSN 0959-6526
 
 PII: S0959-6526(16)30435-8
 
@@ -54,9 +52,7 @@ University of Graz
 
 Merangasse 18, 8010 Graz – Austria
 
-# MANUSCRIPT
-
-ACCEPTED
+# ACCEPTED
 
 # Strategic perspectives of corporate sustainability management to develop a sustainable organization
 
@@ -70,7 +66,6 @@ Sustainable development refers to an economic, environmental and social developm
 
 - Links between corporate sustainability management and sustainability are discussed.
 - Perspectives of strategic management for sustainability management are explored.
-- Ways to integrate strategic thinking into sustainability management are presented.
 
 # Keywords
 
@@ -78,7 +73,7 @@ Strategic management; sustainability; corporate sustainability management; strat
 
 # ACCEPTED MANUSCRIPT
 
-# 1 Introduction
+# 1. Introduction
 
 Sustainable development, as defined by the Brundtland commission, tackles global environmental and social challenges and aims to provide a generic framework that allows the development of solutions that address these challenges (WCED, 1987). However, in its basic normative and ethical form, the concept of sustainable development offers no clear guidance with regard to which strategies, plans or activities need to be implemented. Consequently, a plethora of related guidelines and definitions have emerged. In order for the concept to become more binding, concrete and actionable, participation is required from numerous actors at various levels of society. Contributions from individuals, organizations, regions, states and societies are all relevant in any kind of sustainability-oriented development.
 
@@ -117,11 +112,13 @@ As used in this paper, the term ‘strategic perspective’ sheds light on two i
 
 By way of providing a theoretical starting point, three distinct, but complementary, dimensions of strategic management are used here: strategy process, strategy content and strategy context (Pettigrew, 1987; De Wit and Meyer, 2004). These dimensions were first introduced into the field of sustainability science by Baumgartner and Korhonen (2010).
 
-Strategy process, content and context are distinct, but interrelated, components of strategy. These three dimensions provide a framework to explain and interpret strategic thinking in the present paper. Developing a strategy for a company entails the definition of the content of a strategy. Specifically, the ‘what’, ‘when’ and ‘how’ of strategic activities with respect to specific external and internal factors (the context) must be determined. The starting point for this process is the ‘why’; the purpose of the whole endeavor must be ascertained. The purpose can be, for example, to develop economically efficient and ecologically sustainable products. The three strategy dimensions may be defined as follows:
+Strategy process, content and context are distinct, but interrelated, components of strategy. These three dimensions provide a framework to explain and interpret strategic thinking in the present paper. Developing a strategy for a company entails the definition of the content of a strategy. Specifically, the ‘what’, ‘when’ and ‘how’ of strategic activities with respect to specific external and internal factors (the context) must be determined. The starting point for this process is the ‘why’; the purpose of the whole endeavor must be ascertained. The purpose can be, for example, to develop economically efficient and ecologically sustainable products.
+
+The three strategy dimensions may be defined as follows:
 
 - The strategy process itself comprises the construction and development phase of a strategy.
 - The conditions surrounding strategic activities are the strategy context. The context influences the possibilities and limitations of the strategy. For example, regulations, natural resource scarcities, or pressures/innovations arising from NGOs can impose limits on, or provide opportunities for, organizations and communities.
-- The strategy content represents the output of the strategy process, what is termed the result of strategic activities. This covers what is offered, what is
+- The strategy content represents the output of the strategy process, what is termed the result of strategic activities. This covers what is offered, what is.
 
 # ACCEPTED MANUSCRIPT
 
@@ -132,6 +129,8 @@ A closer examination of corporate sustainability strategies and sustainable stra
 The main reason for choosing a sustainability approach is to reduce the negative environmental and social impacts of corporate activities while improving (or at least not reducing) the economic performance of the corporation. In addition, corporate sustainability can improve the sustainability performance of other actors and systems. In principle, the individual company, business community, society and nature can all benefit from more sustainable corporate behavior. Both external developments and internal strengths and weaknesses need to be considered when attempting to integrate sustainable development issues into strategic planning (Eccles et al., 2012; Engert et al., 2016). Consequently, a corporate sustainability strategy integrates social and environmental dimensions into the strategic management process and highlights the strategic position of a company with regard to sustainable development.
 
 The integration of environmental and social issues into corporate mid-term and long-term goals demands that a careful balance be achieved between the needs of internal and external stakeholders. This is essential to maintain or improve corporate sustainability performance. As the needs of stakeholders and the environment tend to vary, both over time and according to the geographic setting, the strategic planning process must be sufficiently flexible. Basically, corporate sustainability strategies can be distinguished on the basis of whether they have
+
+5
 
 # ACCEPTED MANUSCRIPT
 
@@ -159,11 +158,25 @@ Shareholders and financial community
 
 company
 
-|Suppliers|Development; Production, Sales|Employees|
-|---|---|---|
-|Technoloqv and infrastructure|Materials and energy|devices|
-|Resource inputs|Society|MANUS CRIP TcompaniesPartner|
-|Appropriate returns|Appropriate returns|Appropriate returns|
+Suppliers
+
+Development; Production, Sales
+
+Employees
+
+Technoloqv and infrastructure
+
+Materials and energy
+
+MANUS CRIP Tdevices
+
+Partner companies
+
+Society
+
+Resource inputs
+
+Appropriate returns
 
 Figure 1: A company as a system for transforming resources (Hinterhuber, 2004)
 
@@ -173,12 +186,11 @@ Economic sustainability embraces several general aspects of an organization that
 
 # ACCEPTED MANUSCRIPT
 
-innovation and technology management, collaboration, knowledge management, organizational processes and purchase or sustainability reporting are important economic aspects of corporate sustainability (Baumgartner and Ebner, 2010).
+Innovation and technology management, collaboration, knowledge management, organizational processes and purchase or sustainability reporting are important economic aspects of corporate sustainability (Baumgartner and Ebner, 2010).
 
-# Table 1: Economic aspects of corporate sustainability (Baumgartner and Ebner, 2010)
-
-|Innovation and Technology|Effort made in sustainability-related R&D to reduce the environmental impacts of new products and business activities. Use of BAT (Best Available Techniques) and integrated environmental technologies, concentrating on cleaner production and zero emission technologies.|
+|Economic aspects of corporate sustainability (Baumgartner and Ebner, 2010)|Description|
 |---|---|
+|Innovation and Technology|Effort made in sustainability-related R&D to reduce the environmental impacts of new products and business activities. Use of BAT (Best Available Techniques) and integrated environmental technologies, concentrating on cleaner production and zero emission technologies.|
 |Collaboration|Good cooperation and active collaboration with various partners (e.g., suppliers, R&D institutions, universities). Working in shared programs and networks on the development of innovative products and technologies. Exchange of information and knowledge.|
 |Knowledge Management|Activities and approaches that keep knowledge related to sustainability in the organization. Methods to plan, develop, organize, maintain, transfer, apply and measure specific knowledge and improve the organizational knowledge base.|
 |Processes|Clear processes and roles are defined so that business activities are efficiently conducted, and every employee knows what the organization expects from him or her (also with respect to sustainability). Adaptations of process management to achieve sustainability necessitate the systematic implementation of corporate sustainability. Integration of sustainability into daily business life.|
@@ -189,15 +201,13 @@ innovation and technology management, collaboration, knowledge management, organ
 
 # Table 2: Environmental issues of business activities (based on Baumgartner, 2010; Baumgartner and Ebner, 2010)
 
-|Input|raw, auxiliary and working materials| |
+|Input|• renewable resources (materials, energy) including recycling flows| |
 |---|---|---|
-|• renewable resources (materials, energy) including recycling flows| | |
 |• fossil-fuel based and non-renewable resources (materials, energy) including recycling flows| | |
 | | |• land use|
 | | |• biodiversity|
-|• use of environmentally-friendly technologies (for example, cleaner production)| | |
-|Throughput|creation production and service| |
-|• environmentally-oriented product and service design| | |
+| |• use of environmentally-friendly technologies (for example, cleaner production)| |
+|Throughput creation production and service|• environmentally-oriented product and service design| |
 |• efficient use of the production facilities and infrastructure| | |
 | | |• environmental impacts of transport|
 | | |• air, water and soil emissions|
@@ -207,27 +217,21 @@ innovation and technology management, collaboration, knowledge management, organ
 |• product-related environmental impacts determined by the product design (usage and disposal phase)| | |
 |Value chain|upstream| |
 | | |• environmental impacts of suppliers|
-| |downstream|• environmental impacts of product user behavior|
+| |downstream| |
+| |• environmental impacts of product user behavior| |
 
 These sustainability issues provide the basis for the definition of a corporate sustainability strategy (Baumgartner and Ebner, 2010; Baumgartner, 2014). The strategies with an external focus (extroverted and visionary sustainability strategy) are likely to have a particularly strong societal impact. By achieving improvements in terms of the sustainability issues described above, both internal and external stakeholders (employees, customers, consumers, suppliers, neighbors and society itself) are likely to benefit.
 
+# ACCEPTED
+
+9
+
+# ACCEPTED MANUSCRIPT
+
 # Table 3: Social issues of business activities (based on Baumgartner and Ebner, 2010; ISO, 2010)
 
-|Internal social issues|Internal social issues|
-|---|
-|• workplace health and safety, avoidance of workplace accidents|• employee orientation and employee development, attractiveness of the company to employees|
-|• corporate governance|• respect for human rights in the company|
-|• participation of employees in decision making|• protection of customer data|
-|• diversity and equality|• ethical behavior of the company (avoidance of corruption, cartelization)|
-| |• company´s contribution to societal development on a regional, national, or international level (e.g., job offers)|
-| |• integration of external stakeholders, ensuring stakeholder legitimacy|
-|External social issues|External social issues|
-|• respect for human rights in the company´s sphere of influence (e.g., with respect to child labor, rights of indigenous people, a right to labor unions and collective agreements)|• reporting on social aspects of the business activities|
-| |• product descriptions and consumer information|
-
-An important task for management is now to identify the economic, environmental and social issues that are important to the company. This may be done by applying the Framework for Strategic Sustainable Development (FSSD) with its five-level model sustainability principles, ABCD-planning procedure and funnel-metaphor (Broman and Robèrt, 2015). The FSSD is recommended because it provides robust, comprehensive and generic principles for sustainability, as well as a logical process for integrating these principles into strategic planning.
-
-The funnel-metaphor is included in the FSSD to indicate how a current (non-sustainable) business practice will reduce the decision-making autonomy of companies in the mid- to long-term, since they are confronted with, for example, continually increasing social pressures and resource costs. This will lead to increased financial risks, and these are likely to be lower for more sustainable companies. By using the ABCD-planning process, a company can identify its options to comply with the FSSD sustainability principles and reduce the risk of sudden costs that jeopardize opportunities and are difficult to predict, as well as stay informed about cutting edge sustainability-driven business developments (Ny et al., 2006).
+Internal social issues• workplace health and safety, avoidance of workplace accidents• corporate governance• participation of employees in decision making• diversity and equality• employee orientation and employee development, attractiveness of the company to employees• respect for human rights in the company• protection of customer data• ethical behavior of the company (avoidance of corruption, cartelization)• company´s contribution to societal development on a regional, national, or international level (e.g., job offers)External social issues• respect for human rights in the company´s sphere of influence (e.g., with respect to child labor, rights of indigenous people, a right to labor unions and collective agreements)• reporting on social aspects of the business activities• product descriptions and consumer information
+An important task for management is now to identify the economic, environmental and social issues that are important to the company. This may be done by applying the Framework for Strategic Sustainable Development (FSSD) with its five-level model sustainability principles, ABCD-planning procedure and funnel-metaphor (Broman and Robèrt, 2015). The FSSD is recommended because it provides robust, comprehensive and generic principles for sustainability, as well as a logical process for integrating these principles into strategic planning. The funnel-metaphor is included in the FSSD to indicate how a current (non-sustainable) business practice will reduce the decision-making autonomy of companies in the mid- to long-term, since they are confronted with, for example, continually increasing social pressures and resource costs. This will lead to increased financial risks, and these are likely to be lower for more sustainable companies. By using the ABCD-planning process, a company can identify its options to comply with the FSSD sustainability principles and reduce the risk of sudden costs that jeopardize opportunities and are difficult to predict, as well as stay informed about cutting edge sustainability-driven business developments (Ny et al., 2006).
 
 Not all businesses have a positive social value, however, and whether a company delivers a positive societal value or not is based on societal perceptions about the company’s products and services, as well as its physical impact on the natural environment. There is, for instance, a considerable consensus that producing nuclear weapons does not generate positive societal values. In the case of conventional weapon systems, however, arguments concerning their relative social value are more mixed. Whether cars or coffee pods have a positive societal value is also debated.
 
@@ -263,19 +267,12 @@ The sustainability performance of a company is based on the environmental, econo
 
 # External stakeholders
 
-Company (internal stakeholder)
-
-Culture
-
-Strategy
-
-# Sustainability performance
-
-Actions
-
-# Society
-
-# Nature
+|Company|(internal stakeholder)| | |
+|---|---|---|---|
+|Culture|Strategy|Sustainability performance| |
+|Actions| | | |
+|Society| | | |
+|Nature| | | |
 
 Figure 2: Sustainability impact chain (based on Laudal, 2011)
 
@@ -303,7 +300,9 @@ While assessing the impact of business activities, one needs to take both first-
 
 Increasing the efficiency of existing processes and products, such as raising the fuel efficiency of gasoline-fueled cars or improving the efficiency of recycling processes are examples of first-order sustainability performance. Second-order sustainability performance involves the introduction of new technologies, products and services such as new closed-loop electronic waste management with a focus on reuse, refurbishment and remanufacturing.
 
-These four propositions describe concepts of the societal value of corporate sustainability management, which is based on the integration of robust sustainability principles into the strategy content.
+These four propositions describe concepts of the societal value of corporate sustainability management, which is based on the integration of robust sustainability principles into the strategy content. The distinction made between
+
+13
 
 # 3.2 The business value of sustainable strategic management – adding the context dimension
 
@@ -330,13 +329,13 @@ The economic benefit of corporate sustainability management in a narrow sense is
 
 # Example 2a:
 
-Energy savings can be achieved in operations or higher margins can be gained by focusing on organic food. These so-called win-win situations can be verified by examining the ensuing reductions in costs and environmental impact (e.g., where less energy is used to heat a building).
+Energy savings can be achieved in operations or higher margins can be gained by focusing on organic food. These so-called win-win-situations can be verified by examining the ensuing reductions in costs and environmental impact (e.g., where less energy is used to heat a building).
 
 Freeman points out the important role that stakeholders play in long-term company success (Freeman, 1984). Stakeholders may support or hinder the implementation of corporate strategies (Michelon et al., 2012). A credible CSR policy allows a company to expand its operations without incurring stakeholder resistance (i.e., on the part of neighbors, NGOs, or society, in general). It is, therefore, important that sustainability management policies are perceived as being legitimate and worthwhile.
 
 # Proposition 2b:
 
-When embarking on corporate sustainability, improving the legitimacy and public and stakeholder perceptions with regard to acceptability of company activities is likely to generate economic benefits.
+When embarking on corporate sustainability, improving public and stakeholder perceptions with regard to acceptability of company activities is likely to generate economic benefits.
 
 # Example 2b:
 
@@ -366,7 +365,7 @@ The economic benefit of corporate sustainability management, in a broader sense,
 
 Toyota’s introduction of its hybrid car “Prius” in the US is one example. In general, at the operational level, companies also need to critically analyze services and products offered, the related turnover and market developments over a certain period of time in order to better understand whether sustainability management has led to increased market performance.
 
-One important aspect to consider when providing sustainable products and services is the minimization of negative environmental impacts throughout their lifecycle. This is often associated with the ‘dematerialization’ of a product or service, which can lead to product-service systems (Roy, 2000; Mont, 2002; Tukker, 2004; Tukker and Tischner, 2006; Gelbmann and Hammerl, 2014). The resulting systems tend to be characterized by the fact that the need for a ‘product’ as a service, rather than the product or service itself, is the selling point.
+One important aspect to consider when providing sustainable products and services is the minimization of negative environmental and social impacts throughout their lifecycle. This is often associated with the ‘dematerialization’ of a product or service, which can lead to product-service systems (Roy, 2000; Mont, 2002; Tukker, 2004; Tukker and Tischner, 2006; Gelbmann and Hammerl, 2014). The resulting systems tend to be characterized by the fact that the need for a ‘product’ as a service, rather than the product or service itself, is the selling point.
 
 # ACCEPTED MANUSCRIPT
 
@@ -392,7 +391,7 @@ Looking for ways to increase corporate environmental and social performance can 
 
 Capturing the potential business value that will be derived from corporate sustainability management is only possible when relevant opportunities are identified. To do this, the various aspects of sustainability need to be integrated into the ‘context dimension’. The business value gained in a narrow sense is based on the ability to reduce costs and increase profits. In the broader sense, benefits are based on improved competitiveness, improved innovation capacity and the introduction of new business models.
 
-# 4 Developing and initiating a sustainable organization – the process dimension of sustainable strategic management
+# Developing and initiating a sustainable organization – the process dimension of sustainable strategic management
 
 While sections 3.1 and 3.2 dealt with strategy content and strategy context, this section focuses on strategy process. The strategy process concerns the
 
@@ -438,7 +437,7 @@ Implementing corporate sustainability management requires change and learning pr
 
 Change processes are doomed to failure unless the members of an organization possess the sufficient ability to learn (Bieker, 2005). The newer the strategy, structure and processes are to a company, the less compatible they are with the prevailing organizational culture, and the more intensive the organizational change and learning processes needed (Schein, 1995). This consideration led to the development of the following proposition:
 
-# 19
+19
 
 # ACCEPTED MANUSCRIPT
 
@@ -450,7 +449,7 @@ Corporate sustainability management should facilitate mutual learning processes 
 
 Goal-oriented learning mechanisms, the integration of milestones into existing R&D processes, formalized instruments of communication, self-organized working groups, guideline-oriented learning processes and project work for learning processes all illustrate how learning may be embedded in the context of corporate sustainable development (Siebenhüner and Arnold, 2007).
 
-The objective of operational management is to execute strategic guidelines and plans and attain the set strategic goals in the most efficient way. The corporate sustainability strategy is implemented at the operational level of management, in terms of how the vision, mission, long-term goals and strategic plans are executed within the company. The focus is placed on the various corporate functions such as on logistics and materials management, production, maintenance, marketing, public relations, human resources and communication. Innovation and continuous improvement are seen as cross-functional areas, which are integrated into other corporate functions. Specific sustainability-oriented activities must be carried out as part of each corporate function. The specific activities required depend on the type of strategy involved. Thus, the following proposition is suggested with respect to the operational level:
+The objective of operational management is to execute strategic guidelines and plans and attain the set strategic goals in the most efficient way. The corporate sustainability strategy is implemented at the operational level of management, in terms of how the vision, mission, long-term goals and strategic plans are executed within the company. The focus is placed on the various corporate functions such as on logistics and materials management, production, maintenance, marketing, public relations, human resources and communication. Innovation and continuous improvement are seen as cross-functional areas, which are integrated into other corporate functions. Specific sustainability-oriented activities must be carried out as part of each corporate function.
 
 # Proposition 3e
 
@@ -490,15 +489,49 @@ The underlying goal of this paper was to introduce strategic management into the
 
 # ACCEPTED MANUSCRIPT
 
-of strategic management is a prerequisite to creating societal value. In order to measure the societal value of corporate sustainability management, the operationalization of sustainable development needs to be testable. The Framework for Strategic Sustainable Development offers this kind of operationalization. The sustainability performance of an organization is based on corporate activities. The extent to which the related impacts on society and nature are considered relevant and tolerable is additionally influenced by socio-cultural and economic conditions. While assessing the impact of business activities, one needs to take both first- and second-order levels of sustainability into account. First-order levels are related to narrow issues of efficiency, while second-order levels are broader, and more closely related to systemic effectiveness.
+of strategic management is a prerequisite to creating societal value. In order to measure the societal value of corporate sustainability management, the operationalization of sustainable development needs to be testable. The Framework for Strategic Sustainable Development offers this kind of operationalization.
+
+# Proposition 1b
+
+The sustainability performance of an organization is based on corporate activities. The extent to which the related impacts on society and nature are considered relevant and tolerable is additionally influenced by socio-cultural and economic conditions.
+
+# Proposition 1c
+
+While assessing the impact of business activities, one needs to take both first- and second-order levels of sustainability into account. First-order levels are related to narrow issues of efficiency, while second-order levels are broader, and more closely related to systemic effectiveness.
 
 # Business value of sustainable strategic management – the context dimension
 
-The economic benefit of corporate sustainability management in a narrow sense is based on reduced costs or increased revenues. When embarking on corporate sustainability, improving public and stakeholder perceptions with regard to the legitimacy and acceptability of company activities is likely to generate economic benefits. The economic benefit of corporate sustainability management, in a broader sense, can be based on increased innovation. The economic benefit of corporate sustainability management, in a broader sense, can be based on increased market differentiation. The change from classical product-selling business models to product-service systems can significantly reduce the negative environmental and social impacts of a product. The economic benefit of corporate sustainability management in a broader sense can be based on the development of new business models.
+# Proposition 2a
+
+The economic benefit of corporate sustainability management in a narrow sense is based on reduced costs or increased revenues. When embarking on corporate sustainability, improving public and stakeholder perceptions with regard to the legitimacy and acceptability of company activities is likely to generate economic benefits.
+
+# Proposition 2b
+
+The economic benefit of corporate sustainability management, in a broader sense, can be based on increased innovation.
+
+# Proposition 2c
+
+The economic benefit of corporate sustainability management, in a broader sense, can be based on increased market differentiation. The change from classical product-selling business models to product-service systems can significantly reduce the negative environmental and social impacts of a product.
+
+# Proposition 2d
+
+The economic benefit of corporate sustainability management in a broader sense can be based on the development of new business models.
 
 # Developing and initiating a sustainable organization – the process dimension
 
-The organizational culture has a strong influence on the different steps necessary in the development towards a ‘sustainable organization’. The higher the level of sustainability awareness within an organization, the more ambitious the goals and strategies deployed when pursuing sustainable development. Defining short-term and long-term goals in corporate sustainability management requires the clarification of the societal and business values that will be derived. A corporate sustainability strategy matches its goals with its organizational capabilities, the organizational responsibilities of different departments and the geographical and temporal system boundaries. Corporate sustainability management should facilitate mutual learning processes to address challenges related to sustainable development. These learning processes are based on feedback loops in and among all organizational departments and management levels.
+The organizational culture has a strong influence on the different steps necessary in the development towards a ‘sustainable organization’. The higher the level of sustainability awareness within an organization, the more ambitious the goals and strategies deployed when pursuing sustainable development.
+
+# Proposition 3a
+
+Defining short-term and long-term goals in corporate sustainability management requires the clarification of the societal and business values that will be derived.
+
+# Proposition 3b
+
+A corporate sustainability strategy matches its goals with its organizational capabilities, the organizational responsibilities of different departments and the geographical and temporal system boundaries.
+
+# Proposition 3c
+
+Corporate sustainability management should facilitate mutual learning processes to address challenges related to sustainable development. These learning processes are based on feedback loops in and among all organizational departments and management levels.
 
 22
 
@@ -528,39 +561,18 @@ ACCEPTED
 
 # External stakeholders
 
-# Company
-
-# (internal stakeholder)
-
-# Sustainability
-
-# Culture
-
-# Strategy
-
-# sustainability
-
-# impact on
-
-# society and
-
-# nature
-
-# Actions
-
-# Sociocultural
-
-# and economic
-
-# conamions
-
-# Integrating strategy context into business value
-
-# Fit between strategy content and societal needs to deliver societal value
+|Company|(internal stakeholder)|Sustainability|Culture|Strategy|sustainability|impact on|society and|nature|
+|---|---|---|---|---|---|---|---|---|
+|Actions|Actions|Actions|Actions|Actions|Actions|Actions|Actions|Actions|
+|Sociocultural and economic conamions|Sociocultural and economic conamions|Sociocultural and economic conamions|Sociocultural and economic conamions|Sociocultural and economic conamions|Sociocultural and economic conamions|Sociocultural and economic conamions|Sociocultural and economic conamions|Sociocultural and economic conamions|
+|Integrating strategy context into business value|Integrating strategy context into business value|Integrating strategy context into business value|Integrating strategy context into business value|Integrating strategy context into business value|Integrating strategy context into business value|Integrating strategy context into business value|Integrating strategy context into business value|Integrating strategy context into business value|
+|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|Fit between strategy content and societal needs to deliver societal value|
 
 # Society
 
 # Nature
+
+# MANUSCRIPT
 
 Figure 3: Strategic perspectives integrated into a corporate sustainability impact chain
 
@@ -568,9 +580,9 @@ The answers to the research questions (see section 1) are discussed below.
 
 The first research question (“How can a strategic perspective of corporate sustainability management be conceptualized?”) was addressed by introducing three dimensions of strategic management: strategy process, content and context.
 
-The second research question (“How can strategic success of corporate sustainability management be defined?”) was addressed by distinguishing between the societal value and business value of corporate sustainability management. By making use of first- and second-order sustainability performance levels, the various elements relevant to the assessment of the success of corporate sustainability management were clarified. First-order sustainability performance focuses on the maximization of economic, social and environmental efficiency, whereas second-order sustainability performance is characterized by its focus on systemic effectiveness.
+The second research question (“How can strategic success of corporate sustainability management be defined?”) was addressed by distinguishing between the societal value and business value of corporate sustainability management. By making use of first- and second-order sustainability performance levels, the various elements relevant to the assessment of the success of corporate sustainability management were identified. First-order sustainability performance focuses on the maximization of economic, social and environmental efficiency, whereas second-order sustainability performance is characterized by its focus on systemic effectiveness.
 
-The third research question (“How can corporations act more sustainably from a strategic point of view?”) was addressed in section 4 through a description of the process dimension and related propositions. Figure 3 shows how the strategic perspectives are integrated in the sustainability impact chain (as described in section 3.1). Integrating sustainability considerations into the strategy context is necessary to create business value. In the absence of the latter, companies
+The third research question (“How can corporations act more sustainably from a strategic point of view?”) was addressed in section 4 through a description of the process dimension and related propositions. Figure 3 shows how the strategic perspectives are integrated in the sustainability impact chain (as described in section 3.1). Integrating sustainability considerations into the strategy context is necessary to create business value. In the absence of the latter, companies.
 
 24
 
@@ -583,12 +595,6 @@ The paper offers both scientific and practical contributions. By combining the c
 # Acknowledgments
 
 We thank the anonymous reviewers for their helpful feedback and Dr. Sara Crockett for the proof reading of the paper.
-
-# MANUS CRIP T
-
-# ACCEP TED
-
-25
 
 # ACCEPTED MANUSCRIPT
 
@@ -626,9 +632,7 @@ Bönte, W.; Dienes, C. (2013): Environmental Innovations and Strategies for the 
 
 Boons, F.; Lüdeke-Freund, F. (2013): Business models for sustainable innovation: state-of-the-art and steps towards a research agenda. In: Journal of Cleaner Production, Vol. 45, 9-19.
 
-Broman, G.I., Robèrt, K.-H. (2015): A framework for strategic sustainable development. In: Journal of Cleaner Production, http://dx.doi.org/10.1016/j.jclepro.2015.10.121.
-
-Carrillo-Hermosilla, J.; del Río González, P.; Könnölä, T. (2009): Eco-Innovation. When Sustainability and Competitiveness shake hands. Palgrave Macmillan.
+Broman, G.I., Robèrt, K.-H. (2015): A framework for strategic sustainable development. In: Carrillo-Hermosilla, J.; del Río González, P.; Könnölä, T. (2009): Journal of Cleaner Production, http://dx.doi.org/10.1016/j.jclepro.2015.10.121 ACCEPTED Eco-Innovation. When Sustainability and Competitiveness shake hands. Palgrave Macmillan.
 
 Cunha Callado, L.A; Fensterseifer, J. E. (2011): Corporate Sustainability Measure From An Integrated Perspective: The Corporate Sustainability Grid (CSG). In: International Journal of Business Insights Transformation, Vol. 3, No. 3, 44-54.
 
@@ -710,7 +714,7 @@ Schein, E.H. (1995): Unternehmenskultur. Frankfurt/New York: Campus Verlag.
 
 Schiederig, T.; Tietze, F.; Herstatt, C. (2012): Green innovation in technology and innovation management – an exploratory literature review. In: R&D Management, Vol. 42, No. 2180-192.
 
-Siebenhüner, B.; Arnold, M. (2007): Organizational learning to manage sustainable development. In: Business Strategy and the Environment, Vol. 16, No. 5, 339-353.
+Siebenhüner, B.; Arnold, M. (2007): Organizational learning to manage sustainable development.
 
 Sneddon, C.; Howarth, R.B.; Norgaard, R.B. (2006): Sustainable development in a post-Brundtland world. In: Ecological Economics, Vol. 57, No. 2, 253 - 268.
 

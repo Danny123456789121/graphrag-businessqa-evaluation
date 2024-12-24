@@ -18,10 +18,6 @@ def load_and_chunk_documents(md_folder_path):
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=400, chunk_overlap=100)
     chunks = text_splitter.split_documents(documents)
     print("amount of documents used: ", len(documents))
-    
-    with open("combined_documents.md", "w", encoding="utf-8") as f:
-        for doc in documents:
-            f.write(doc.page_content + "\n\n")
     return chunks
 
 def setup_rag_embeddings(data_dir, faiss_path, embeddings_model, reembed=False):
@@ -37,7 +33,8 @@ def setup_rag_embeddings(data_dir, faiss_path, embeddings_model, reembed=False):
         vectorstore.save_local(faiss_path)
         print(f"Saved {len(chunks)} chunks to {faiss_path}.")
 
-    retriever = vectorstore.as_retriever()
+    retriever = vectorstore.as_retriever(
+            search_kwargs={'k': 10,'fetch_k': 30})
     return retriever
 
 def build_rag_chain(retriever, llm):
